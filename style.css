@@ -1,0 +1,19 @@
+img{
+    width: 290px;
+    height: 390;
+}
+
+div{
+    display: flex;
+}
+
+.imgbut{
+    border: solid 8px green; 
+}
+
+body{
+    background-color: purple
+}
+h1{
+    text-color: yellow;
+}
